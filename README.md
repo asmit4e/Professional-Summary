@@ -113,9 +113,9 @@
             <h2>Projects</h2>
             <ul>
                 <!-- List of projects (Replace with actual project details) -->
-                <li><strong>Project 1:</strong> <em>Title and brief description</em></li>
-                <li><strong>Project 2:</strong> <em>Title and brief description</em></li>
-                <li><strong>Project 3:</strong> <em>Title and brief description</em></li>
+                <li><strong>Project 1:</strong> <em>virtual math teacher</em></li>
+                <li><strong>Project 2:</strong> <em>Hand Gesture Recognition Based Calculator</em></li>
+                <li><strong>Project 3:</strong> <em>making a true upi payment with zero of cost</em></li>
             </ul>
             <script>console.log('Projects section loaded');</script>
         </section>
@@ -136,7 +136,7 @@
         <!-- Education section -->
         <section>
             <h2>Education</h2>
-            <p>Bachelor of Technology (B.Tech) in Computer Science Engineering<br>XYZ University<br>Graduating in 2025</p>
+            <p>Bachelor of Technology (B.Tech) in Computer Science Engineering<br>Abdul kalam technical University<br>Graduating in 2026</p>
             <script>console.log('Education section loaded');</script>
         </section>
     </div>
@@ -148,3 +148,5 @@
     </footer>
 </body>
 </html>
+
+        
